@@ -3,9 +3,9 @@ TONE: A 3-Tiered ONtology for Emotion analysis, is an emotion-based ontology tha
 
 ## 📄 Associated Paper
 
-**Title:** Ontology-Based Framework for XYZ  
-**Authors:** A. Author, B. Author  
-**Venue:** Conference / Journal, Year  
+**Title:** TONE: A 3-Tiered ONtology for Emotion Analysis  
+**Authors:** Srishti Gupta, Piyush Kumar Garg, Sourav Kumar Dandapat  
+**Venue:** IEEE Access
 
 📎 [Paper PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10935318)  
 📎 [DOI](https://doi.org/10.1109/ACCESS.2025.3553107)
